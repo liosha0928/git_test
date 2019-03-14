@@ -7,4 +7,7 @@ public class Git {
         System.out.println("git w");
     }
 
+    public int add(){
+        return 2;
+    }
 }
